@@ -1,1 +1,1 @@
-# arena-sothc-simple-attendance
+The SimpleAttendance module is an add-in for the Leader Toolbox, permitting leader(s) to take attendance for their group(s) using an ultra-simple interface. Updated 3/10/2012 -- now offers optional module configuration to redirect to page after entering attendance and clicking "Submit." Updated 10/30/2012 -- now allows headcount entry as well as "notes" entry. (Thanks Trey!!)
